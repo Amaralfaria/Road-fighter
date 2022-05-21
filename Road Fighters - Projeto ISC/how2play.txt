@@ -1,0 +1,14 @@
+arraste main.s para fpgrars
+
+COMANDOS:
+
+menu:
+	1: vai para fase 1
+	2: vai para fase 2
+	espaço: confirma
+
+movimentos:
+	a: carro vai para esquerda
+	d: carro vai para direita
+
+após bater aperte 'a' ou 'd' para retomar controle
